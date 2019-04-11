@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+
+*.env
+
+db/*
+!db/.gitkeep
+devdb/*
+!devdb/.gitkeep
+testrpc-db/*
+!testrpc-db/.gitkeep
