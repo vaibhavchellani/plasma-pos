@@ -23,7 +23,7 @@
     "start": "cross-env NODE_ENV=production node dist/index.js",
     "cli": "./src/cli/index.js"
   },
-  "author": "Jaynti Kanani <jdkanani@gmail.com>",
+  "author": "Vaibhav Chellani<vaibhavchellani223@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
